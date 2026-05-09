@@ -15,8 +15,8 @@ ALERT_NORMALIZATION = {
     "offline": "offline",
     "motion_detected": "motion_detected",
     "motion-detected": "motion_detected",
-    "Battery Low": "battery_low",
-    "TEMP_HIGH": "temp_high",
+    "battery low": "battery_low",
+    "temp_high": "temp_high",
 }
 
 

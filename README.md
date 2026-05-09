@@ -43,6 +43,12 @@ It includes local data generation, raw ingestion, transformation to cleaned/silv
    python src/report.py
    ```
 
+## Tests
+Run the unit tests with:
+```bash
+python -m pytest -q
+```
+
 ## Data organization
 - `data/source/`: generated source CSV files
 - `data/raw/`: ingested bronze files
